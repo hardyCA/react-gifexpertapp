@@ -1,0 +1,14 @@
+body{
+    padding: 10px;
+}
+
+.card{
+    align-content: center;
+    border:1px solid gray;
+
+}
+.card-grid{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
